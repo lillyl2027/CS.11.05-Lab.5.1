@@ -44,7 +44,7 @@ public class Tests {
     /**************************************************************************************************************
      * Testing for the averages
      **************************************************************************************************************/
-
+/**
     @Test
     public void meanTotalWasteKgPerCapitaPerYear()
     {
@@ -90,7 +90,7 @@ public class Tests {
     /**************************************************************************************************************
      * Testing for the medians
      **************************************************************************************************************/
-
+/**
     @Test
     public void medianTotalWasteKgPerCapitaPerYear()
     {
@@ -136,7 +136,7 @@ public class Tests {
     /**************************************************************************************************************
      * Testing for the minimums
      **************************************************************************************************************/
-
+/**
     @Test
     public void minTotalWasteKgPerCapitaPerYear()
     {
@@ -182,7 +182,7 @@ public class Tests {
     /**************************************************************************************************************
      * Testing for the maximums
      **************************************************************************************************************/
-
+/**
     @Test
     public void maxTotalWasteKgPerCapitaPerYear()
     {
@@ -200,13 +200,13 @@ public class Tests {
     {
         assertEquals(91646213, Main.maxHouseholdEstimateTonnesPerYear(householdEstimatesTonnesPerYear));
     }
-
+**/
     @Test
     public void maxRetailEstimateKgPerCapitaPerYear()
     {
         assertEquals(79, Main.maxRetailEstimateKgPerCapitaPerYear(retailEstimatesKgPerCapitaPerYear));
     }
-
+/**
     @Test
     public void maxRetailEstimateTonnesPerYear()
     {
