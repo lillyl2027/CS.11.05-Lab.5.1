@@ -1,0 +1,150 @@
+,Country,combined figures (kg/capita/year),Household estimate (kg/capita/year),Household estimate (tonnes/year),Retail estimate (kg/capita/year),Retail estimate (tonnes/year),Food service estimate (kg/capita/year),Food service estimate (tonnes/year),Confidence in estimate,M49 code,Region,Source,Code,Year,$30.00 per day - share of population below poverty line
+0,Albania,127,83,238492,16,45058,28,79651,Very Low Confidence,8,Southern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2160,ALB,2019,98.89066
+1,Algeria,135,91,3918529,16,673360,28,1190335,Very Low Confidence,12,Northern Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2107,DZA,2019,98.98599
+2,Angola,144,100,3169523,16,497755,28,879908,Very Low Confidence,24,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2176,AGO,2019,99.67712
+3,Armenia,137,93,275195,16,46259,28,81775,Very Low Confidence,51,Western Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2227,ARM,2019,99.53208
+4,Australia,133,102,2563110,9,238248,22,546340,High Confidence,36,Australia and New Zealand,https://www.unep.org/resources/report/unep-food-waste-index-report-2021,AUS,2019,17.99878
+5,Austria,76,39,349249,9,77289,28,254191,High Confidence,40,Western Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2245,AUT,2019,17.440170000000002
+6,Azerbaijan,137,93,934872,16,157148,28,277800,Very Low Confidence,31,Western Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2228,AZE,2019,87.37525000000002
+7,Bangladesh,84,65,10618233,16,2550080,3,544436,Very Low Confidence,50,Southern Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2152,BGD,2019,99.70823
+8,Belarus,112,68,646356,16,147838,28,261341,Very Low Confidence,112,Eastern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2035,BLR,2019,85.25434
+9,Belgium,80,50,576036,10,112100,20,227371,Medium Confidence,56,Western Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2246,BEL,2019,18.84771
+10,Belize,97,53,20564,16,6106,28,10794,Very Low Confidence,84,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2051,BLZ,2019,95.79342
+11,Benin,144,100,1175297,16,184573,28,326280,Very Low Confidence,204,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2177,BEN,2019,99.81003
+12,Bhutan,123,79,60000,16,11935,28,21098,Very Low Confidence,64,Southern Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2153,BTN,2019,97.31925
+13,Bosnia and Herzegovina,127,83,273269,16,51628,28,91266,Very Low Confidence,70,Southern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2162,BIH,2019,75.23279000000002
+14,Botswana,136,92,211802,16,36030,28,63693,Very Low Confidence,72,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2178,BWA,2019,96.51297
+15,Brazil,104,60,12578308,16,3300862,28,5835112,Very Low Confidence,76,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2054,BRA,2019,82.85525
+16,Bulgaria,112,68,478667,16,109483,28,193539,Very Low Confidence,100,Eastern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2036,BGR,2019,76.70127
+17,Burkina Faso,147,103,2086893,16,317831,28,561848,Very Low Confidence,854,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2179,BFA,2019,99.89099
+18,Burundi,147,103,1184127,16,180341,28,318799,Very Low Confidence,108,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2180,BDI,2019,99.98636
+19,Cameroon,144,100,2577064,16,404713,28,715433,Very Low Confidence,120,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2182,CMR,2019,99.09314
+20,Canada,118,79,2938321,13,479284,26,956615,Low Confidence,124,Northern America,https://www.unep.org/resources/report/unep-food-waste-index-report-2115,CAN,2019,18.74672
+21,Central African Republic,147,103,487305,16,74216,28,131196,Very Low Confidence,140,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2183,CAF,2019,99.59781
+22,Chad,147,103,1637656,16,249413,28,440901,Very Low Confidence,148,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2184,TCD,2019,99.90001
+23,Chile,113,74,1400946,13,242800,26,484611,Low Confidence,152,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2057,CHL,2019,77.36503
+24,China,126,64,91646213,16,22424705,46,65377741,Very Low Confidence,156,Eastern Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2028,CHN,2019,91.58186
+25,Colombia,114,70,3545499,16,787320,28,1391787,Very Low Confidence,170,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2058,COL,2019,90.8363
+26,Comoros,144,100,84742,16,13308,28,23526,Very Low Confidence,174,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2185,COM,2019,98.84029
+27,Congo,144,100,535851,16,84152,28,148760,Very Low Confidence,178,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2186,COG,2019,99.69142
+28,Costa Rica,116,72,365609,16,78946,28,139556,Very Low Confidence,188,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2059,CRI,2019,78.05648000000001
+29,Croatia,123,84,348070,13,52915,26,105613,Low Confidence,191,Southern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2163,HRV,2019,74.2501
+30,Cyprus,134,95,113306,13,15356,26,30649,Low Confidence,196,Western Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2230,CYP,2019,32.03541
+31,Czechia,109,70,746840,13,136943,26,273327,Low Confidence,203,Eastern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2037,CZE,2019,52.21585
+32,Denmark,132,81,469449,30,172003,21,119134,High Confidence,208,Northern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2119,DNK,2019,12.619000000000002
+33,Djibouti,144,100,96962,16,15227,28,26918,Very Low Confidence,262,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2189,DJI,2019,99.04957
+34,Dominican Republic,116,72,777849,16,167960,28,296913,Very Low Confidence,214,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2063,DOM,2019,89.74587000000002
+35,Ecuador,116,72,1258415,16,271729,28,480349,Very Low Confidence,218,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2064,ECU,2019,91.76371
+36,Egypt,135,91,9136941,16,1570093,28,2775538,Very Low Confidence,818,Northern Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2108,EGY,2019,99.64027
+37,El Salvador,124,80,516828,16,100936,28,178430,Very Low Confidence,222,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2065,SLV,2019,95.23341
+38,Estonia,100,78,102743,5,6243,17,22013,Medium Confidence,233,Northern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2120,EST,2019,46.43826
+39,Eswatini,144,100,114341,16,17957,28,31743,Very Low Confidence,748,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2192,SWZ,2019,97.78912
+40,Ethiopia,136,92,10327236,16,1752936,28,3098760,Very Low Confidence,231,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2193,ETH,2019,99.82687
+41,Fiji,120,76,67385,16,13920,28,24607,Very Low Confidence,242,Melanesia,https://www.unep.org/resources/report/unep-food-waste-index-report-2095,FJI,2019,96.70505
+42,Finland,101,65,361937,13,70875,23,128927,Low Confidence,246,Northern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2122,FIN,2019,16.62685
+43,France,135,85,5522358,26,1667568,24,1594579,Medium Confidence,250,Western Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2247,FRA,2019,20.10841
+44,Gabon,136,92,199748,16,33980,28,60068,Very Low Confidence,266,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2194,GAB,2019,97.7464
+45,Gambia,147,103,241095,16,36719,28,64909,Very Low Confidence,270,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2195,GMB,2019,99.44271
+46,Georgia,145,101,403573,16,62511,28,110504,Very Low Confidence,268,Western Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2231,GEO,2019,99.0077
+47,Germany,102,75,6263775,6,498244,21,1718433,High Confidence,276,Western Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2248,DEU,2019,19.99493
+48,Ghana,128,84,2555332,16,475743,28,840996,Very Low Confidence,288,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2196,GHA,2019,98.40875
+49,Greece,175,142,1483996,7,77332,26,267812,Medium Confidence,300,Southern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2165,GRC,2019,77.07233000000001
+50,Guatemala,116,72,1273466,16,274979,28,486095,Very Low Confidence,320,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2070,GTM,2019,96.48196
+51,Guinea,147,103,1311530,16,199744,28,353099,Very Low Confidence,324,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2197,GIN,2019,99.86893
+52,Guinea-Bissau,147,103,197266,16,30043,28,53109,Very Low Confidence,624,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2198,GNB,2019,99.99
+53,Guyana,116,72,56700,16,12243,28,21643,Very Low Confidence,328,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2071,GUY,2019,92.92667
+54,Haiti,127,83,936940,16,176157,28,311403,Very Low Confidence,332,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2072,HTI,2019,99.5049
+55,Honduras,124,80,780504,16,152431,28,269461,Very Low Confidence,340,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2073,HND,2019,97.15784
+56,Hungary,133,94,908669,13,124074,26,247642,Low Confidence,348,Eastern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2038,HUN,2019,69.99208999999999
+57,Iceland,115,76,25827,13,4343,26,8668,Low Confidence,352,Northern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2123,ISL,2019,9.422839
+58,India,94,50,68760163,16,21371087,28,37778821,Very Low Confidence,356,Southern Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2154,IND,2017,99.58345
+59,Indonesia,121,77,20938252,16,4232646,28,7482277,Very Low Confidence,360,South-eastern Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2142,IDN,2019,99.0635
+60,Iraq,164,120,4734434,16,614814,28,1086840,Very Low Confidence,368,Western Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2232,IRQ,2019,99.7092
+61,Ireland,124,55,267073,13,62551,56,274135,Low Confidence,372,Northern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2124,IRL,2019,19.97363
+62,Israel,178,100,848395,51,437997,27,233752,Medium Confidence,376,Western Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2233,ISR,2019,47.74354
+63,Italy,97,67,4059806,4,219552,26,1548291,High Confidence,380,Southern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2167,ITA,2019,37.41260000000001
+64,Jamaica,116,72,213552,16,46112,28,81515,Very Low Confidence,388,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2074,JAM,2019,93.73849
+65,Japan,88,64,8159891,9,1095308,15,1870735,Medium Confidence,392,Eastern Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2032,JPN,2019,25.227100000000004
+66,Jordan,137,93,939897,16,157993,28,279293,Very Low Confidence,400,Western Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2234,JOR,2019,96.2942
+67,Kazakhstan,120,76,1404584,16,290148,28,512910,Very Low Confidence,398,Central Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2023,KAZ,2019,96.34601
+68,Kenya,141,99,5217367,11,576411,31,1637020,Medium Confidence,404,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2199,KEN,2019,99.80142
+69,Kiribati,135,91,10704,16,1839,28,3251,Very Low Confidence,296,Micronesia,https://www.unep.org/resources/report/unep-food-waste-index-report-2101,KIR,2019,99.52493
+70,Kyrgyzstan,135,91,583951,16,100346,28,177387,Very Low Confidence,417,Central Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2024,KGZ,2019,99.24845
+71,Latvia,115,76,145263,13,24427,26,48755,Low Confidence,428,Northern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2126,LVA,2019,63.79245
+72,Lebanon,149,105,717491,16,107225,28,189547,Very Low Confidence,422,Western Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2236,LBN,2019,83.29366
+73,Lesotho,144,100,211661,16,33240,28,58760,Very Low Confidence,426,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2200,LSO,2019,99.56731
+74,Liberia,147,103,507043,16,77222,28,136510,Very Low Confidence,430,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2201,LBR,2019,99.96254
+75,Lithuania,115,76,210241,13,35354,26,70564,Low Confidence,440,Northern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2127,LTU,2019,58.814780000000006
+76,Luxembourg,117,89,54951,7,4433,21,12868,Medium Confidence,442,Western Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2250,LUX,2019,12.51339
+77,Madagascar,147,103,2769594,16,421806,28,745649,Very Low Confidence,450,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2202,MDG,2019,99.99
+78,Malawi,147,103,1913062,16,291357,28,515048,Very Low Confidence,454,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2203,MWI,2019,99.91453
+79,Malaysia,260,91,2921577,79,2518199,90,2861537,Medium Confidence,458,South-eastern Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2144,MYS,2019,61.09271
+80,Maldives,115,71,37688,16,8305,28,14681,Very Low Confidence,462,Southern Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2156,MDV,2019,87.39081999999999
+81,Mali,147,103,2018765,16,307456,28,543506,Very Low Confidence,466,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2204,MLI,2019,99.99
+82,Malta,168,129,56812,13,5642,26,11261,Low Confidence,470,Southern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2168,MLT,2019,26.07514
+83,Mauritania,144,100,450720,16,70783,28,125127,Very Low Confidence,478,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2205,MRT,2019,99.74159
+84,Mauritius,132,93,118626,13,16267,26,32467,Low Confidence,480,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2206,MUS,2019,92.87157
+85,Mexico,138,94,11979364,16,1995310,28,3527217,Very Low Confidence,484,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2076,MEX,2019,92.90823
+86,Mongolia,122,78,250173,16,50443,28,89171,Very Low Confidence,496,Eastern Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2033,MNG,2019,98.02864
+87,Montenegro,127,83,51988,16,9822,28,17363,Very Low Confidence,499,Southern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2169,MNE,2019,88.35015
+88,Morocco,135,91,3319524,16,570427,28,1008375,Very Low Confidence,504,Northern Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2110,MAR,2019,95.23294
+89,Mozambique,147,103,3118416,16,474931,28,839561,Very Low Confidence,508,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2208,MOZ,2019,99.42757
+90,Myanmar,130,86,4666125,16,845282,28,1494251,Very Low Confidence,104,South-eastern Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2145,MMR,2019,99.45984
+91,Namibia,136,92,229344,16,39015,28,68968,Very Low Confidence,516,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2209,NAM,2019,93.21663
+92,Nauru,118,79,850,13,138,26,276,Low Confidence,520,Micronesia,https://www.unep.org/resources/report/unep-food-waste-index-report-2104,NRU,2019,97.50725
+93,Nepal,123,79,2249412,16,447447,28,790975,Very Low Confidence,524,Southern Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2157,NPL,2019,99.74829
+94,Netherlands,87,50,854855,11,188068,26,437180,Medium Confidence,528,Western Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2252,NLD,2019,15.60387
+95,Nicaragua,124,80,524188,16,102373,28,180970,Very Low Confidence,558,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2078,NIC,2019,95.56163
+96,Niger,147,103,2393877,16,364585,28,644496,Very Low Confidence,562,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2210,NER,2019,99.97155
+97,Nigeria,233,189,37941470,16,3143117,28,5556257,Very Low Confidence,566,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2211,NGA,2019,99.96996
+98,North Macedonia,127,83,172480,16,32586,28,57605,Very Low Confidence,807,Southern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2170,MKD,2019,97.20821
+99,Norway,98,79,423857,14,74088,5,26685,Medium Confidence,578,Northern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2128,NOR,2019,7.430460999999998
+100,Pakistan,118,74,15947645,16,3387131,28,5987614,Very Low Confidence,586,Southern Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2158,PAK,2019,99.68919
+101,Panama,113,74,313897,13,54402,26,108582,Low Confidence,591,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2079,PAN,2019,73.70873
+102,Papua New Guinea,135,91,798767,16,137260,28,242642,Very Low Confidence,598,Melanesia,https://www.unep.org/resources/report/unep-food-waste-index-report-2097,PNG,2019,99.81938
+103,Paraguay,116,72,510256,16,110179,28,194770,Very Low Confidence,600,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2080,PRY,2019,86.98145000000002
+104,Peru,116,72,2354806,16,508472,28,898853,Very Low Confidence,604,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2081,PER,2019,92.60246
+105,Philippines,130,86,9334477,16,1690968,28,2989216,Very Low Confidence,608,South-eastern Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2146,PHL,2019,99.01018
+106,Poland,95,56,2119455,13,485392,26,968807,Low Confidence,616,Eastern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2039,POL,2019,88.2244
+107,Portugal,123,84,861786,13,131011,26,261488,Low Confidence,620,Southern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2171,PRT,2019,62.76525
+108,Romania,109,70,1352979,13,248086,26,495161,Low Confidence,642,Eastern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2041,ROU,2019,83.21043999999998
+109,Rwanda,208,164,2075405,16,197489,28,349112,Very Low Confidence,646,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2213,RWA,2019,99.73936
+110,Saint Lucia,116,72,13241,16,2859,28,5054,Very Low Confidence,662,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2085,LCA,2019,82.43568
+111,Samoa,120,76,14923,16,3083,28,5449,Very Low Confidence,882,Polynesia,https://www.unep.org/resources/report/unep-food-waste-index-report-2135,WSM,2019,96.39284
+112,Sao Tome and Principe,144,100,21422,16,3364,28,5947,Very Low Confidence,678,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2215,STP,2019,98.88971
+113,Senegal,144,100,1622980,16,254879,28,450564,Very Low Confidence,686,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2216,SEN,2019,99.85316
+114,Serbia,105,83,726196,16,137199,6,52633,Very Low Confidence,688,Southern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2173,SRB,2019,93.76611
+115,Seychelles,132,93,9128,13,1252,26,2498,Low Confidence,690,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2217,SYC,2019,82.67017
+116,Sierra Leone,147,103,802371,16,122200,28,216020,Very Low Confidence,694,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2218,SLE,2019,99.91146
+117,Slovakia,109,70,381273,13,69911,26,139538,Low Confidence,703,Eastern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2043,SVK,2019,69.97489999999999
+118,Slovenia,61,34,71107,7,13910,20,41741,Medium Confidence,705,Southern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2174,SVN,2019,33.13392
+119,Solomon Islands,135,91,60963,16,10476,28,18519,Very Low Confidence,90,Melanesia,https://www.unep.org/resources/report/unep-food-waste-index-report-2098,SLB,2019,99.83022
+120,Somalia,147,103,1585898,16,241530,28,426966,Very Low Confidence,706,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2219,SOM,2019,99.99
+121,South Africa,84,40,2329228,16,915865,28,1619024,Very Low Confidence,710,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2220,ZAF,2019,91.04232
+122,South Sudan,147,103,1136015,16,173014,28,305846,Very Low Confidence,728,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2221,SSD,2019,99.97423
+123,Spain,116,77,3613954,13,598760,26,1195080,Low Confidence,724,Southern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2175,ESP,2019,44.31491000000001
+124,Sri Lanka,120,76,1617738,16,333508,28,589559,Very Low Confidence,144,Southern Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2159,LKA,2019,97.3023
+125,Sudan,141,97,4162396,16,669608,28,1183703,Very Low Confidence,729,Northern Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2111,SDN,2019,99.75964
+126,Suriname,116,72,42112,16,9093,28,16075,Very Low Confidence,740,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2089,SUR,2018,94.30187
+127,Sweden,112,81,812948,10,100364,21,205746,High Confidence,752,Northern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2129,SWE,2019,16.44885
+128,Switzerland,125,72,615790,13,110067,40,343656,Low Confidence,756,Western Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2253,CHE,2019,12.4597
+129,Tajikistan,141,97,906209,16,145783,28,257708,Very Low Confidence,762,Central Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2025,TJK,2019,98.96064
+130,Thailand,123,79,5478532,16,1088960,28,1925014,Very Low Confidence,764,South-eastern Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2148,THA,2019,91.38145
+131,Togo,147,103,830017,16,126411,28,223463,Very Low Confidence,768,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2222,TGO,2019,99.93601
+132,Tonga,120,76,7912,16,1634,28,2889,Very Low Confidence,776,Polynesia,https://www.unep.org/resources/report/unep-food-waste-index-report-2137,TON,2019,95.89398
+133,Trinidad and Tobago,113,74,103119,13,17872,26,35671,Low Confidence,780,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2090,TTO,2019,76.43636000000002
+134,Tunisia,135,91,1064407,16,182908,28,323336,Very Low Confidence,788,Northern Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2112,TUN,2019,97.13154
+135,Turkey,137,93,7762575,16,1304858,28,2306668,Very Low Confidence,792,Western Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2242,TUR,2019,83.22361000000002
+136,Turkmenistan,120,76,449895,16,92936,28,164288,Very Low Confidence,795,Central Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2026,TKM,2019,95.9845
+137,Tuvalu,120,76,878,16,181,28,321,Very Low Confidence,798,Polynesia,https://www.unep.org/resources/report/unep-food-waste-index-report-2138,TUV,2019,96.68702
+138,Uganda,147,103,4546237,16,692387,28,1223969,Very Low Confidence,800,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2223,UGA,2019,99.77205
+139,Ukraine,120,76,3344904,16,688070,28,1216338,Very Low Confidence,804,Eastern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2044,UKR,2019,95.06982
+140,United Arab Emirates,134,95,923625,13,125173,26,249836,Low Confidence,784,Western Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2243,ARE,2019,0.8391554000000001
+141,United Kingdom,98,77,5199825,4,283627,17,1114248,High Confidence,826,Northern Europe,https://www.unep.org/resources/report/unep-food-waste-index-report-2130,GBR,2019,30.15797
+142,United States of America,139,59,19359951,16,5151313,64,20934827,High Confidence,840,Northern America,https://www.unep.org/resources/report/unep-food-waste-index-report-2118,USA,2019,19.99708
+143,Uruguay,113,74,255892,13,44349,26,88517,Low Confidence,858,Latin America and the Caribbean,https://www.unep.org/resources/report/unep-food-waste-index-report-2093,URY,2019,70.72154
+144,Uzbekistan,135,91,3001868,16,515841,28,911881,Very Low Confidence,860,Central Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2027,UZB,2019,99.7841
+145,Vanuatu,135,91,27296,16,4691,28,8292,Very Low Confidence,548,Melanesia,https://www.unep.org/resources/report/unep-food-waste-index-report-2099,VUT,2019,99.56884
+146,Yemen,148,104,3026946,16,456099,28,806270,Very Low Confidence,887,Western Asia,https://www.unep.org/resources/report/unep-food-waste-index-report-2244,YEM,2019,99.94615
+147,Zambia,122,78,1391729,16,279350,28,493822,Very Low Confidence,894,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2225,ZMB,2019,99.51594
+148,Zimbabwe,144,100,1458564,16,229059,28,404920,Very Low Confidence,716,Sub-Saharan Africa,https://www.unep.org/resources/report/unep-food-waste-index-report-2226,ZWE,2019,99.04897
